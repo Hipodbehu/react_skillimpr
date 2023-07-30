@@ -26,6 +26,7 @@ const Home = () => {
   return (
     <div className="home">
       <BlogList blogs={blogs} title={'Sometitle'}/>
+      <BlogList blogs={blogs.filter((blog) => blog.author === "Jarik")} title={'Check title'}/>
       <h1>Homepage</h1>
       <p>{ name } is { age } yrs old</p>
       <button onClick={handleClick}>Click me</button>
