@@ -9,7 +9,6 @@ const Home = () => {
     { title: 'Web dev tooltips', body: 'lrem ipms', author: 'Derek', id: 3}
   ])
 
-  // let name = 'test_name';
   const [name, setName] = useState('test_name');
   const [age, setAge] = useState(23);
 

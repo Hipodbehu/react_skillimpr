@@ -1,8 +1,4 @@
 const BlogList = ({ blogs, title }) => {
-  // const blogs = props.blogs;
-  // const title = props.title;
-
-  // console.log(props, blogs);
   console.log(title, blogs);
 
   return (
