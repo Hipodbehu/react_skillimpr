@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "lrem ipms",
+      "author": "Jarik",
+      "id": 1
+    },
+    {
+      "title": "Party heayahee",
+      "body": "lrem ipms",
+      "author": "Yaarik",
+      "id": 2
+    }
+  ]
+}
